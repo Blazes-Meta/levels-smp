@@ -9,8 +9,8 @@ scoreboard objectives add lvlsmp.gotItem dummy
 
 scoreboard objectives add constant dummy
 scoreboard players set 0 constant 0
-scoreboard players set 10 constant 0
-scoreboard players set 11 constant 0
+scoreboard players set 10 constant 10
+scoreboard players set 11 constant 11
 
 # Settings
 scoreboard players set increaseCost lvlsmp.settings 20
