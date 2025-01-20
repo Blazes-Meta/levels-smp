@@ -8,3 +8,4 @@
 - [ ] Multiplyer-Anwendung
 - [ ] Anpassbare Multiplayer-Änderungen
 - [ ] Custom Ban-Text
+- [ ] Custom Item
