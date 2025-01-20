@@ -1,1 +1,1 @@
-execute if score banOn0Multiplyer lvlsmp.settings matches 1 as @a if score @s lvlsmp.multiplyer matches 0 run ban @s 
+execute if score banOn0Multiplyer lvlsmp.settings matches 1 as @a if score @s lvlsmp.multiplyer matches 0 run ban @s "Banned"
