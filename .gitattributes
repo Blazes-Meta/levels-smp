@@ -1,2 +1,4 @@
 **.json linguist-detectable=true
 **.mcmeta linguist-detectable=true
+
+spyglass.json linguist-detectable=false
