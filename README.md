@@ -4,8 +4,8 @@
 
 - [x] Health-Logik
 - [ ] Health-Anpassung
-- [x] Multiplyer-Logik
-- [ ] Multiplyer-Anwendung
+- [x] Multiplier-Logik
+- [ ] Multiplier-Anwendung
 - [ ] Anpassbare Multiplayer-Änderungen
 - [ ] Custom Ban-Text
 - [ ] Custom Item Mechanic

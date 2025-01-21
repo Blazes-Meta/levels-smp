@@ -1,1 +1,1 @@
-execute as @a run title @s actionbar ["",{"score":{"name":"@s","objective":"lvlsmp.multiplyer"},"color":"green"},{"text":"x","color":"green"}]
+execute as @a run title @s actionbar ["",{"score":{"name":"@s","objective":"lvlsmp.multiplier"},"color":"green"},{"text":"x","color":"green"}]
