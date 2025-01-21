@@ -1,1 +1,1 @@
-execute as @a run attribute @s minecraft:max_health modifier add lvlsmp:additional_health 6 add_value
+execute as @a if score @s lvlsmp:addhealth matches 2 run attribute @s minecraft:max_health base set 22
