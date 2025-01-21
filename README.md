@@ -3,7 +3,8 @@
 ## TODO
 
 - [x] Health-Logik
-- [ ] Health-Anpassung
+- [x] Health-Anpassung (undynamisch)
+- [ ] Health-Anpassung (dynamisch)
 - [x] Multiplier-Logik
 - [ ] Multiplier-Anwendung
 - [ ] Anpassbare Multiplayer-Änderungen
