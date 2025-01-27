@@ -1,5 +1,6 @@
 # Die Werte hier sind ersteinmal fix, da ich nicht weiß, wie man Attribute auf scores setzt
 
+execute as @a[scores={lvlsmp.addHealth=0}] run attribute @s minecraft:generic.max_health base set 20
 execute as @a[scores={lvlsmp.addHealth=2}] run attribute @s minecraft:generic.max_health base set 22
 execute as @a[scores={lvlsmp.addHealth=4}] run attribute @s minecraft:generic.max_health base set 24
 execute as @a[scores={lvlsmp.addHealth=6}] run attribute @s minecraft:generic.max_health base set 26
