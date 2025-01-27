@@ -39,6 +39,14 @@
                 "NoAI": true,
                 "Tags": [
                     "lvlsmp.callMultiplier"
+                ],
+                "active_effects": [
+                    {
+                        "id": "minecraft:invisibility",
+                        "amplifier": 1,
+                        "duration": -1,
+                        "show_particles": false
+                    }
                 ]
             }
         },
