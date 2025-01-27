@@ -1,3 +1,4 @@
+execute as @a[tag=lvlsmp.Eliminated] run title @s actionbar ["",{"text":"Eliminiert","color":"red"}]
 execute as @a[scores={lvlsmp.multiplier=1}] run title @s actionbar ["",{"text":"0.1x","color":"green"}]
 execute as @a[scores={lvlsmp.multiplier=2}] run title @s actionbar ["",{"text":"0.2x","color":"green"}]
 execute as @a[scores={lvlsmp.multiplier=3}] run title @s actionbar ["",{"text":"0.3x","color":"green"}]
