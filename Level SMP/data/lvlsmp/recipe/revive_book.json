@@ -1,0 +1,53 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "NON",
+        "DBD",
+        "NDN"
+    ],
+    "key": {
+        "D": {
+            "item": "minecraft:diamond_block"
+        },
+        "N": {
+            "item": "minecraft:netherite_ingot"
+        },
+        "B": {
+            "item": "minecraft:beacon"
+        },
+        "O": {
+            "item": "minecraft:enchanted_golden_apple"
+        }
+    },
+    "result": {
+        "id": "minecraft:silverfish_spawn_egg",
+        "components": {
+            "max_stack_size": 1,
+            "item_name": "\"Permanenter Multiplier\"",
+            "lore": [
+                "{\"text\": \"Belebt einen Spieler wieder\", \"color\": \"blue\", \"italic\": false}"
+            ],
+            "rarity": "epic",
+            "enchantment_glint_override": true,
+            "entity_data": {
+                "id": "minecraft:silverfish",
+                "Silent": true,
+                "Invulnerable": true,
+                "CustomNameVisible": false,
+                "NoAI": true,
+                "Tags": [
+                    "lvlsmp.callRevive"
+                ],
+                "active_effects": [
+                    {
+                        "id": "minecraft:invisibility",
+                        "amplifier": 1,
+                        "duration": -1,
+                        "show_particles": false
+                    }
+                ]
+            }
+        },
+        "count": 1
+    }
+}

@@ -14,3 +14,10 @@ execute as @a[scores={lvlsmp.unaccountedKills=1..}] run scoreboard players remov
 
 # 9, 10 und 11 einfach, weil man sich wegen der Konstanten auf irgendwas einigen muss, und die reichen aus, wenn man lediglich
 # Abstände von 0.5 bzw 0.1 hat
+
+
+execute as @a[scores={lvlsmp.multiplier=50..,lvlsmp.gotItem=0}] run function lvlsmp:give/permanent_multiplier
+execute as @a[scores={lvlsmp.multiplier=50..,lvlsmp.gotItem=0}] run scoreboard players set @s lvlsmp.gotItem 1
+
+execute as @a[scores={lvlsmp.multiplier=50..}] run scoreboard players set @s lvlsmp.multiplier 50
+execute as @a[scores={lvlsmp.multiplier=..0}] run scoreboard players set @s lvlsmp.multiplier 10
