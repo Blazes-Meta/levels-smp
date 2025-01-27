@@ -38,7 +38,7 @@
                 "CustomNameVisible": false,
                 "NoAI": true,
                 "Tags": [
-                    "Multiplier"
+                    "lvlsmp.callMultiplier"
                 ]
             }
         },

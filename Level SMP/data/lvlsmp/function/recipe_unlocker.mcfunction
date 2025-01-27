@@ -1,0 +1,1 @@
+recipe give @a lvlsmp:multiplier_item
