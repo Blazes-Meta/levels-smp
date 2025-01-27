@@ -23,7 +23,7 @@
         "id": "minecraft:silverfish_spawn_egg",
         "components": {
             "max_stack_size": 1,
-            "item_name": "\"Permanenter Multiplier\"",
+            "item_name": "\"XP Multiplikator\"",
             "lore": [
                 "{\"text\": \" \"}",
                 "{\"text\": \"Nach Benutzung:\", \"color\": \"gray\", \"italic\": false}",
